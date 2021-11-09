@@ -1,10 +1,9 @@
 import React from "react";
+import Top from  "./components/Top"
 
 const App = () => {
   return (
-    <div>
-      <h1>Hello World</h1>
-    </div>
+    <Top />
   );
 };
 
